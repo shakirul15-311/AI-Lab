@@ -1,0 +1,77 @@
+1. Intro to list = Everything in Tutorial's Point = https://www.tutorialspoint.com/python3/python_lists.htm
+
+2. Intro to basic dictionary = create and access, https://www.tutorialspoint.com/python/python_dictionary.htm
+
+3. Intro to Basic File Operation = open, close, read, write, append = https://www.tutorialspoint.com/python3/python_files_io.htm
+
+4. Intro to Numpy = 
+
+			[ALWAYS REMEMBER = axis 0 means vertical, axis 1 means horizontal]
+
+			a. Create a numpy 1d, nd array - https://www.tutorialspoint.com/numpy/numpy_ndarray_object.htm
+				np.array 
+
+			b. Browse through numpy array attrbutes and plotting - 
+
+				https://www.tutorialspoint.com/numpy/numpy_array_attributes.htm
+					-> ndarray.shape (get, set), ndarray.reshape()
+				https://www.tutorialspoint.com/numpy/numpy_array_from_numerical_ranges.htm
+					-> np.arange()
+				https://www.tutorialspoint.com/numpy/numpy_array_creation_routines.htm
+					-> np.zeros(), np.ones()
+				https://www.tutorialspoint.com/numpy/numpy_array_from_existing_data.htm
+					-> np.asarray() #converts list to numpy array
+				https://www.tutorialspoint.com/numpy/numpy_indexing_and_slicing.htm
+					-> array[start:stop] #used for array accessing and slicing for 1D and 2D arrays
+				https://www.tutorialspoint.com/numpy/numpy_broadcasting.htm
+					-> Concept of Numpy BroadCasting
+				https://www.tutorialspoint.com/numpy/numpy_array_manipulation.htm
+					-> np.append(), np.insert(), np.delete(), np.unique()
+				https://www.tutorialspoint.com/numpy/numpy_mathematical_functions.htm
+					-> np.floor(), np.ceil(), np.around()
+				https://www.tutorialspoint.com/numpy/numpy_arithmetic_operations.htm
+					-> np.add(). np.subtract(), np.multiply(), np.divide(), np.power(), np.mod()
+				https://www.tutorialspoint.com/numpy/numpy_statistical_functions.htm
+					-> np.amin(), np.amax(), np.mean()
+				https://www.tutorialspoint.com/numpy/numpy_sort_search_counting_functions.htm
+					-> np.sort(), np.where()*, 
+				https://www.tutorialspoint.com/numpy/numpy_matplotlib.htm
+					-> Plot two arrays - plt.plot(), plt.subplot(), plt.title(), plt.xlabel(), plt.ylabel, plt.bar()
+				https://www.tutorialspoint.com/numpy/numpy_histogram_using_matplotlib.htm
+					-> np.histogram()
+				https://www.tutorialspoint.com/numpy/numpy_with_io.htm 
+					-> np.savetxt(). np.loadtxt()
+				https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.randint.html#numpy.random.randint
+					-> np.random.randint(), np.random.randn()
+
+4. Quick 10 Min Overall Intro to Pandas = https://pandas.pydata.org/pandas-docs/stable/10min.html 
+				
+				https://www.tutorialspoint.com/python_pandas/python_pandas_series.htm
+					-> pd.Series()
+				https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm
+					-> pd.DataFrame()
+				https://www.tutorialspoint.com/python_pandas/python_pandas_basic_functionality.htm
+					-> (dataFrame only) shape, size, values, head(), tail()
+				https://www.tutorialspoint.com/python_pandas/python_pandas_descriptive_statistics.htm
+					-> count(), sum(), mean(), min(), max(), describe()*
+				https://www.tutorialspoint.com/python_pandas/python_pandas_iteration.htm
+					-> iterrows()
+				https://www.tutorialspoint.com/python_pandas/python_pandas_sorting.htm
+					-> sort_index(), sort_values()
+				https://www.tutorialspoint.com/python_pandas/python_pandas_indexing_and_selecting_data.htm
+					-> loc(), iloc()
+				https://www.tutorialspoint.com/python_pandas/python_pandas_missing_data.htm
+					-> isnull(), notnull(), fillna(), dropna(), replace()
+				https://www.tutorialspoint.com/python_pandas/python_pandas_groupby.htm
+					-> groupby(), agg()
+				https://www.tutorialspoint.com/python_pandas/python_pandas_visualization.htm
+				https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.plot.html
+				https://pandas.pydata.org/pandas-docs/stable/visualization.html * 
+					-> DataFrame Plot
+				
+			
+			
+				
+	 
+			
+			
