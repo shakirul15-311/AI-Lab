@@ -1,0 +1,7 @@
+1. Impletement Stochastic Gradient Descent on the given AND dataset. Output should be matched with the given simulation data. Final output should be the table
+of simulation data given in the slide. You can use dataframe to print a table like structure with styles
+	Source - https://stackoverflow.com/questions/26873127/show-dataframe-as-table-in-ipython-notebook/29665452
+	       - https://pandas.pydata.org/pandas-docs/stable/style.html
+
+2. Plot Weight VS Cost bowl curve (3D Plot) [this is the shape of gradient descent graph]
+	Source - https://stackoverflow.com/questions/28542686/3d-plot-of-the-error-function-in-a-linear-regression
