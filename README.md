@@ -5,7 +5,7 @@ _____________________________________________________
 
 ## Some ML Algorithm Practice
 ____________________________________
--1 Data Visualization, Numpy, Pandas
+- Data Visualization, Numpy, Pandas
 - Gradient Descent
 - K Nearest Neighbor(KNN)
 
