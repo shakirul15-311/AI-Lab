@@ -3,7 +3,7 @@ _____________________________________________________
 
 ![alt text](https://powerinbox.com/wp-content/uploads/2017/07/AI.gif  "AI")
 
-## Some ML Algorithm Practice
+### Some ML Algorithm Practice
 ____________________________________
 - Data Visualization, Numpy, Pandas
 - Gradient Descent
