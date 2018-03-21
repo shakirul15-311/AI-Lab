@@ -10,6 +10,7 @@ ____________________________________
 - Gradient Descent
 - K Nearest Neighbor(KNN)
 - K mean clustering
+- Linear Regression
 
 
 
