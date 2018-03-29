@@ -6,6 +6,7 @@ _____________________________________________________
 - K Nearest Neighbor(KNN)
 - K mean clustering
 - Linear Regression
+- Naive Bayes Classifier
 
 ![alt text](https://powerinbox.com/wp-content/uploads/2017/07/AI.gif "AI")
 
