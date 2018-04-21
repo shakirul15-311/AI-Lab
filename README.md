@@ -1,6 +1,7 @@
 ## Artificial Intelligence Lab | Spring 2018
 _____________________________________________________
-### Algorithms 
+### Algorithms
+
 - Data Visualization, Numpy, Pandas
 - Gradient Descent
 - K Nearest Neighbor(KNN)
